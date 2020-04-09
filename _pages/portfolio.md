@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /portfolio/
 title: "Portfolio"
 header:
@@ -6,7 +7,6 @@ header:
     caption: "testing"
 author_profile: true
 classes: wide
-layout: single
 ---
 
 I am a computational chemist transitioning towards data science. 
