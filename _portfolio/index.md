@@ -1,7 +1,6 @@
 ---
 classes: wide
 title:""
-author_profile: true
 header:
   title:""
   overlay_image: /assets/images/unsplash7.jpg
