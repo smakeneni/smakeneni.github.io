@@ -10,7 +10,7 @@
 
 #Theme Settings
 theme: "minimal-mistakes-jekyll"
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "dirt"
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -64,9 +64,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hi, welcome to my website."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/smakeneni15"
