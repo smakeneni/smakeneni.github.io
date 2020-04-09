@@ -8,17 +8,21 @@ header:
 author_profile: true
 classes: wide
 date: August 27, 2019
-feature_row:
+feature_row1:
   - image_path: /assets/images/dataviz.jpg
     alt: "image 1"
     title: "Data Visualization"
     text: "In this project, I will showcase my data visualizations."
+
+feature_row2:    
   - image_path: /assets/images/dataviz.jpg
     alt: "image 2"
     title: "Statistics"
     url: "#test-link"
     btn_label: "Read More"
     excerpt: "Statistics skills"
+    
+ feature_row3:    
   - image_path: /assets/images/dataviz.jpg
     alt: "image 3"
     title: "Machine Learning"
@@ -32,6 +36,8 @@ feature_row:
 ----------------------------------------------------------
 **Selected projects**:
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
 
 I am a computational chemist transitioning towards data science. 
