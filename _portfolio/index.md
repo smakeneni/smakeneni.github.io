@@ -1,5 +1,6 @@
 ---
 classes: wide
+title: ""
 header:
   overlay_image: /assets/images/unsplash7.jpg
   caption: "Photo credit:unsplash)"
