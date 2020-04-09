@@ -9,24 +9,28 @@ author_profile: true
 classes: wide
 feature_row:
   - image_path: assets/images/dataviz.jpg
-    image_caption: Photo Credit [Ardon Dertat](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
+    image_caption: "Photo Credit Towards Data Science"
     title: "Data visualization"
     excerpt: "In this project, I have first developed code for an image classifier built with PyTorch in Jupyter Notebook, then converted it into a command line application. The application allows you to choose one of the pretrained architectures, specify different hyperparameters (learning rate, hidden layers, epochs) and use either GPU or CPU for training. I also implemented saving the checkpoints so that you can continue training if stopped. Image Classifier predicts 102 flower categories. "
-    url: "#https://github.com/k-bosko/image_classifier"
-    btn_label: "Read Mode"
+    url: "#test-link"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/dataviz.jpg
-    image_caption: Photo Credit [Ardon Dertat](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
+    image_caption: "Photo Credit Towards Data Science"
     title: "Statistics"
-    text: "In this project, I have first developed code for an image classifier built with PyTorch in Jupyter Notebook, then converted it into a command line application. The application allows you to choose one of the pretrained architectures, specify different hyperparameters (learning rate, hidden layers, epochs) and use either GPU or CPU for training. I also implemented saving the checkpoints so that you can continue training if stopped. Image Classifier predicts 102 flower categories. "
-    url: #"https://github.com/k-bosko/image_classifier"
-    btn_label: "Code"
+    excerpt: "In this project, I have first developed code for an image classifier built with PyTorch in Jupyter Notebook, then converted it into a command line application. The application allows you to choose one of the pretrained architectures, specify different hyperparameters (learning rate, hidden layers, epochs) and use either GPU or CPU for training. I also implemented saving the checkpoints so that you can continue training if stopped. Image Classifier predicts 102 flower categories. "
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+ feature_row3:
+   - image_path: assets/images/dataviz.jpg
+     image_caption: assets/images/dataviz.jpg
+     title: "Machine Learning"
+     excerpt: "This catergory showcases projects that implement machine learning"
 ---
 
-**Skills**: Python, Git, Tableau, SQL, Excel
-
-**Libraries**: NumPy, Pandas, Scikit-learn, PyTorch, matplotlib, seaborn, nltk, BeautifulSoup
+**Skills**: R, Data Visualizations tools (ggplot, plotly), Machine Learning methods, Git, SQL, Statistical techniques 
 
 ----------------------------------------------------------
 **Selected projects**:
