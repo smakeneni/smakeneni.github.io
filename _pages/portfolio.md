@@ -20,13 +20,13 @@ feature_row2:
     title: "Statistics"
     url: "#test-link"
     btn_label: "Read More"
-    excerpt: "Statistics skills"
+    text: "Statistics skills"
     
  feature_row3:    
   - image_path: /assets/images/dataviz.jpg
     alt: "image 3"
     title: "Machine Learning"
-    excerpt:  "Machine learning skills"
+    text:  "Machine learning skills"
 ---
 
 **Skills**: R, Git, Tableau, SQL, Excel
