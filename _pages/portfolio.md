@@ -1,16 +1,12 @@
 ---
-layout: single
 permalink: /portfolio/
 title: "Portfolio"
 header:
-    overlay_image: /assets/images/unsplash7.jpg
-    caption: "Photo by Chris Ralston on [Unsplash](https:/unsplash.com/")
+    overlay_image: /assets/images/unsplash6.jpg
+    caption: "testing"
 author_profile: true
-classses: wide
-
+classes: wide
+layout: single
 ---
 
-**Skills**: Python, Git, Tableau, SQL, Excel
-
-**Libraries**: NumPy, Pandas, Scikit-learn, PyTorch, matplotlib
-
+I am a computational chemist transitioning towards data science. 
