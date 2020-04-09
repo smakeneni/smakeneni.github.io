@@ -13,9 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
 title: "My transtition to Data Science"
-email:
-description: >- "My Data Science portfolio"
+email: #
+description: "My Data Science portfolio"
 #twitter_username: username
 #github_username: username
 #minimal_mistakes_skin: default
