@@ -25,12 +25,5 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
-**Skills**: Python, Git, Tableau, SQL, Excel
-
-**Libraries**: NumPy, Pandas, Scikit-learn, PyTorch, matplotlib, seaborn, nltk, BeautifulSoup
-
-----------------------------------------------------------
-**Selected projects**:
-
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
