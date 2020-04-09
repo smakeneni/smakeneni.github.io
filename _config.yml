@@ -108,11 +108,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+   # _pages
   - scope:
       path: ""
       type: portfolio
     values:
+      layout: single
       excerpt: ""
       author_profile: true
       
