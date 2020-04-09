@@ -1,7 +1,9 @@
 ---
 classes: wide
-title: ""
+title:""
+author_profile: true
 header:
+  title:""
   overlay_image: /assets/images/unsplash7.jpg
   caption: "Photo credit: Unsplash"
 permalink: /portfolio/index.html
