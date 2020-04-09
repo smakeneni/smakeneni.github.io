@@ -85,7 +85,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smakeneni"
-    #- label: "Instagram"
+     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
      # url: "https://instagram.com/"
 
@@ -108,23 +108,23 @@ defaults:
     values:
       layout: single
       author_profile: true
-   # _portfolio
-   - scope:
+  # _portfolio
+  - scope:
       path: ""
       type: portfolio
     values:
       layout: single
       author_profile: false
       share: true
-
+      
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-
+  
+# collections
 collections:
   portfolio:
-  output: true
-  permalink: /:collection/:path/
+    output: true  
