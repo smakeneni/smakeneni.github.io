@@ -1,5 +1,6 @@
 ---
 classes: wide
+layout: single
 title: ""
 header:
   overlay_image: /assets/images/unsplash7.jpg
