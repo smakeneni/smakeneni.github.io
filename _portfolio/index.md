@@ -32,7 +32,7 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
-# Portfolio
+**Skills**: Python, Git, Tableau, SQL, Excel
 
 Here you'll find summaries of all the data science projects that I have worked on so far. 
 
