@@ -6,7 +6,7 @@ header:
   caption: "Photo credit:unsplash"
 permalink: /portfolio/index.html
 
-feature_row:
+feature_row1:
   - image_path: assets/images/dataviz.jpg
     title: "Data Visualization"
     excerpt: "Here, I show case data visualizations I have developed for various projects"
