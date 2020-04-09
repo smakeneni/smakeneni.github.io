@@ -18,7 +18,7 @@ minimal_mistakes_skin: "contrast"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title: "My transtition to Data Science"
+title: "Spandana Makeneni"
 email: #
 description: "My Data Science portfolio"
 #twitter_username: username
@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Spandana Makeneni"
+  name   : "Spandana Makeneni, PhD"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hi, welcome to my website."
   links:
