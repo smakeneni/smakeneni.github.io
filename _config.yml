@@ -115,7 +115,6 @@ defaults:
     values:
       excerpt: ""
       author_profile: true
-      share: true
       
 category_archive:
   type: liquid
