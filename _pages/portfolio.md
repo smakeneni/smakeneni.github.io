@@ -7,7 +7,7 @@ header:
     caption: "Photo by [Unsplash](https://unsplash.com)"
 author_profile: true
 classes: wide
-feature_row:
+feature_row1:
   - image_path: assets/images/dataviz.jpg
     image_caption: "Photo Credit Towards Data Science"
     title: "Data visualization"
@@ -23,7 +23,16 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/dataviz.jpg
+    image_caption: "Photo Credit Towards Data Science"
+    title: "Machine Learning "
+    excerpt: "Showcases my machine learning skills"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
