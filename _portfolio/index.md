@@ -11,7 +11,7 @@ feature_row1:
   - image_path: assets/images/dataviz.jpg
     title: "Data Visualization"
     excerpt: "Here, I show case data visualizations I have developed for various projects"
-    url: "/portfolio/firstproject/"
+    url: #"/portfolio/firstproject/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
