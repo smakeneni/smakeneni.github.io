@@ -12,8 +12,8 @@ feature_row:
     excerpt: "Here, I show case data visualizations I have developed for various projects"
     url: "/portfolio/firstproject/"
     btn_label: "Read More"
-    btn_class: "btn--primary"	
-    
+    btn_class: "btn--primary"
+
 feature_row2:    
   - image_path: /assets/images/dataviz.jpg
     title: "Statistics"
@@ -21,8 +21,8 @@ feature_row2:
     url: #"/portfolio/genre_cls/"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-    
-  feature_row3:  
+
+feature_row3:  
   - image_path: /assets/images/dataviz.jpg
     alt: "Social Network"
     title: "Anomaly Detection in Social Networks"
