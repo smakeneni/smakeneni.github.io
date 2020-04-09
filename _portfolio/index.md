@@ -1,11 +1,9 @@
 ---
 classes: wide
 header:
-  title:""
   overlay_image: /assets/images/unsplash7.jpg
-  caption: "Photo credit: Unsplash"
+  caption: "Photo credit:unsplash)"
 permalink: /portfolio/index.html
-date: 2018-01-07
 
 feature_row:
   - image_path: assets/images/dataviz.jpg
