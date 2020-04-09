@@ -9,6 +9,8 @@ author_profile: true
 classses: wide
 
 ---
-**Skills**: R, Git, Statistics, Machine Learning 
 
-**Libraries**: XYZ
+**Skills**: Python, Git, Tableau, SQL, Excel
+
+**Libraries**: NumPy, Pandas, Scikit-learn, PyTorch, matplotlib
+
