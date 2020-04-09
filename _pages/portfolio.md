@@ -1,7 +1,10 @@
 ---
-layout: single
+layout: collection
 title: "Portfolio"
 permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+classes: wide
 header:
     overlay_image: /assets/images/unsplash7.jpg
     caption: "Photo by [Unsplash](https://unsplash.com)"
