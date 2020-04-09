@@ -8,11 +8,21 @@ header:
 author_profile: true
 classes: wide
 date: August 27, 2019
-feature_row1:
-  - image_path: assets/images/unsplash3.jpg
-    portfolio_caption: "testing"
+feature_row:
+  - image_path: assets/images/dataviz.jpg
+    alt: "image 1"
     title: "Data Visualization"
-    text: "In this project, I will showcase my data visualizations. "
+    text: "In this project, I will showcase my data visualizations."
+  - image_path: assets/images/dataviz.jpg
+    alt: "image 2"
+    title: "Statistics"
+    url: "#test-link"
+    btn_label: "Read More"
+    excerpt: "Statistics skills"
+  - image_path: assets/images/dataviz.jpg
+    alt: "image 3"
+    title: "Machine Learning"
+    excerpt:  "Machine learning skills"
 ---
 
 **Skills**: R, Git, Tableau, SQL, Excel
@@ -22,6 +32,6 @@ feature_row1:
 ----------------------------------------------------------
 **Selected projects**:
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row %}
 
 I am a computational chemist transitioning towards data science. 
