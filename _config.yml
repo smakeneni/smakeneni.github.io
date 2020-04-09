@@ -113,7 +113,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      excerpt: ""
       author_profile: true
       share: true
       
