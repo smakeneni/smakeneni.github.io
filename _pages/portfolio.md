@@ -15,6 +15,14 @@ feature_row:
     text: "In this project, I have first developed code for an image classifier built with PyTorch in Jupyter Notebook, then converted it into a command line application. The application allows you to choose one of the pretrained architectures, specify different hyperparameters (learning rate, hidden layers, epochs) and use either GPU or CPU for training. I also implemented saving the checkpoints so that you can continue training if stopped. Image Classifier predicts 102 flower categories. "
     url: #"https://github.com/k-bosko/image_classifier"
     btn_label: "Code"
+feature_row2:
+  - image_path: assets/images/dataviz.jpg
+    portfolio_caption: Photo Credit [Ardon Dertat](https://towardsdatascience.com/applied-deep-learning-part-1-artificial-neural-networks-d7834f67a4f6)
+    alt: "deep learning network"
+    title: "Image Classifier"
+    text: "In this project, I have first developed code for an image classifier built with PyTorch in Jupyter Notebook, then converted it into a command line application. The application allows you to choose one of the pretrained architectures, specify different hyperparameters (learning rate, hidden layers, epochs) and use either GPU or CPU for training. I also implemented saving the checkpoints so that you can continue training if stopped. Image Classifier predicts 102 flower categories. "
+    url: #"https://github.com/k-bosko/image_classifier"
+    btn_label: "Code"
 ---
 
 **Skills**: Python, Git, Tableau, SQL, Excel
@@ -25,3 +33,5 @@ feature_row:
 **Selected projects**:
 
 {% include feature_row %}
+
+{% inclide feature_row id="feature_row2" type="left" %}
