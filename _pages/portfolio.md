@@ -12,4 +12,4 @@ header:
 author_profile: true
 ---
 
-"See my projects below"
+# Project Categories
