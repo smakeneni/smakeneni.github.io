@@ -12,6 +12,6 @@ header:
 author_profile: true
 ---
 
-# Portfolio.
+# PORTFOLIO
 {: .text-center}
 ----------------
