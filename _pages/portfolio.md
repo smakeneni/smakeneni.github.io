@@ -13,7 +13,7 @@ feature_row1:
     portfolio_caption: "Photo Credit"
     title: "Data Visualization"
     text: "Showcasing my data visualization skills "
-    url: #"https://github.com/k-bosko/image_classifier"
+    url: #"portfolio/firstproject"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -32,7 +32,7 @@ feature_row3:
   - image_path: /assets/images/dataviz.jpg
     title: "Statistics"
     text: "Showcasing my statistics skills"
-    url: #"https://github.com/k-bosko/recommendations_IBM"
+    url: "/portfolio/Statistics/"
     btn_label: "Code"
     btn_class: "btn--primary"
 ---
