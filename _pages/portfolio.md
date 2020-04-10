@@ -7,12 +7,10 @@ header:
     caption: "Photo by Unsplash"
 author_profile: true
 classes: wide
-date: August 27, 2019
 feature_row1:
-  - image_path: assets/images/dataviz.jpg
+  - image_path: /assets/images/dataviz.jpg
     portfolio_caption: "Photo Credit"
     title: "Data Visualization"
-    text: "Showcasing my data visualization skills "
     url: "portfolio/dataviz"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -20,15 +18,13 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/dataviz.jpg
     title: "Machine Learning"
-    text: "Showcasing my machine learning skills"
     url: "/portfolio/machinelearning"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary.btn--small"
 
 feature_row3:
   - image_path: /assets/images/dataviz.jpg
     title: "Statistics"
-    text: "Showcasing my statistics skills"
     url: "/portfolio/Statistics/"
     btn_label: "Code"
     btn_class: "btn--primary"
