@@ -1,14 +1,14 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Data Visualization"
+excerpt: " "
 header:
   image: /assets/images/dataviz.jpg
   teaser: /assets/images/dataviz.jpg
-sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+#sidebar:
+ # - title: "Role"
+ #   text: "Designer, Front-End Developer"
+ # - title: "Responsibilities"
+ #   text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/unsplash7.jpg
     image_path: assets/images/unsplash.jpg
