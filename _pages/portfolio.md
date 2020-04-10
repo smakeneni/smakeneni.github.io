@@ -28,8 +28,16 @@ feature_row3:
     title: "Statistics   "
     url: "/portfolio/Statistics/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
-    
+    btn_class: "btn--primary"   
+    btn_size: "btn--small"
+
+feature_row4:
+  - image_path: /assets/images/dataviz.jpg
+    title: "Statistics   "
+    url: "/portfolio/Statistics/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"   
+   
 ---
 ## PORTFOLIO 
 {: .text-center}
