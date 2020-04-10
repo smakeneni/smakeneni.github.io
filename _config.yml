@@ -115,7 +115,7 @@ defaults:
     values:
       layout: single
       excerpt: ""
-      author_profile: true
+      author_profile: false
       
 category_archive:
   type: liquid
