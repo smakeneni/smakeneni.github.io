@@ -24,4 +24,4 @@ feature_row:
 {: .text-center}
 ----------------
 
-{% include featur_row type="left" %}
+{% include feature_row type="left" %}
