@@ -10,7 +10,7 @@ header:
     overlay_image: /assets/images/unsplash6.jpg
     caption: "Photo by [Unsplash](https://unsplash.com)"
 author_profile: TRUE
-feature_row:
+feature_row1:
   - image_path: assets/images/dataviz.jpg
     portfolio_caption: "Photo Credit Unsplash"
     title: "Data visualization"
@@ -40,6 +40,6 @@ feature_row2:
 {: .text-center}
 ----------------
 
-{% include feature_row type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
