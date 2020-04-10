@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning"
+title: "Statistics"
 excerpt: " "
 header:
   image: /assets/images/dataviz.jpg
