@@ -13,7 +13,7 @@ feature_row1:
     portfolio_caption: "Photo Credit"
     title: "Data Visualization"
     text: "Showcasing my data visualization skills "
-    url: #"portfolio/firstproject"
+    url: "portfolio/dataviz"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -21,11 +21,8 @@ feature_row2:
   - image_path: /assets/images/dataviz.jpg
     title: "Machine Learning"
     text: "Showcasing my machine learning skills"
-    url: #"https://github.com/k-bosko/disaster_response"
+    url: "/portfolio/machinelearning"
     btn_label: "Read More"
-    btn_class: "btn--primary"
-    url2: #"https://disaster-reponse-api.herokuapp.com"
-    btn_label2: "App"
     btn_class: "btn--primary"
 
 feature_row3:
