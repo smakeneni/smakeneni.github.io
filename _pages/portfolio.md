@@ -18,6 +18,7 @@ feature_row:
     url: #"https://github.com/k-bosko/image_classifier"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: assets/images/dataviz.jpg
     portfolio_caption: "Photo Credit Unsplash"
     title: "Statistics"
@@ -25,6 +26,14 @@ feature_row:
     url: #"https://github.com/k-bosko/image_classifier"
     btn_label: "Read More"
     btn_class: "btn--primary"   
+ feature_row3:
+   - image_path: assets/images/dataviz.jpg
+    portfolio_caption: "Photo Credit Unsplash"
+    title: "Machine Learning"
+    text: "Here I showcase some of my statistics skills "
+    url: #"https://github.com/k-bosko/image_classifier"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 # PORTFOLIO
@@ -32,3 +41,5 @@ feature_row:
 ----------------
 
 {% include feature_row type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
