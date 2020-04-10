@@ -12,4 +12,6 @@ header:
 author_profile: true
 ---
 
-# Project Categories
+# Portfolio.
+{: .text-center}
+----------------
