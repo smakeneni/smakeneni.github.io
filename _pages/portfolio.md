@@ -31,10 +31,8 @@ feature_row3:
     btn_class: "btn--primary"
     
 ---
-## PORTFOLIO
-{: .text-center}
+## PORTFOLIO {: .text-center}
 ----------------------------------------------------------
-
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
