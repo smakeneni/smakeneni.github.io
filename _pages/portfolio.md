@@ -3,7 +3,7 @@ layout: collection
 title: " "
 permalink: /portfolio/
 collection: portfolio
-#entries_layout: grid
+entries_layout: grid
 classes: wide
 header:
     title: ""
