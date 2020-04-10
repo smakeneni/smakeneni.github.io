@@ -1,11 +1,12 @@
 ---
 layout: collection
-title: "Nothing"
+title: " "
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
 header:
+    title: ""
     overlay_image: /assets/images/unsplash7.jpg
     caption: "Photo by [Unsplash](https://unsplash.com)"
 author_profile: true
