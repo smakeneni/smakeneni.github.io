@@ -11,14 +11,14 @@ feature_row1:
   - image_path: /assets/images/dataviz.jpg
     portfolio_caption: "Photo Credit"
     title: "Data Visualization"
-    url: "portfolio/dataviz"
+    url: #"portfolio/dataviz"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row2:
   - image_path: /assets/images/dataviz.jpg
     title: "Machine Learning"
-    url: "/portfolio/machinelearning"
+    url: #"/portfolio/machinelearning"
     btn_label: "Read More"
     btn_class: "btn--primary"
     btn_size: "btn--small"
@@ -26,7 +26,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/dataviz.jpg
     title: "Statistics   "
-    url: "/portfolio/Statistics/"
+    url: #"/portfolio/Statistics/"
     btn_label: "Read More"
     btn_class: "btn--primary"   
     btn_size: "btn--small"
