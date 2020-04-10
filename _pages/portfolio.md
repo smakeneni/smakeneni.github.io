@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: ""
+title: "Nothing"
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
