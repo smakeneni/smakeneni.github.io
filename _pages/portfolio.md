@@ -20,13 +20,14 @@ feature_row2:
     title: "Machine Learning"
     url: "/portfolio/machinelearning"
     btn_label: "Read More"
-    btn_class: "btn--primary.btn--small"
+    btn_class: "btn--primary"
+    btn_size: "btn--small"
 
 feature_row3:
   - image_path: /assets/images/dataviz.jpg
-    title: "Statistics"
+    title: "Statistics   "
     url: "/portfolio/Statistics/"
-    btn_label: "Code"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
