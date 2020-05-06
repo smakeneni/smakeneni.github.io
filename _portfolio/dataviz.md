@@ -2,26 +2,28 @@
 title: "Data Visualization"
 excerpt: " "
 header:
-  image: /assets/images/dataviz.jpg
-  teaser: /assets/images/dataviz.jpg
+  image: /assets/images/unsplash6.jpg
+  #teaser: /assets/images/dataviz.jpg
 #sidebar:
  # - title: "Role"
  #   text: "Designer, Front-End Developer"
  # - title: "Responsibilities"
  #   text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash7.jpg
-    image_path: assets/images/unsplash.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash7.jpg
-    image_path: assets/images/unsplash7.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash7.jpg
-    image_path: assets/images/unsplash7.jpg
-    alt: "placeholder image 3"
+#gallery:
+ # - url: /assets/images/unsplash7.jpg
+  #  image_path: assets/images/unsplash.jpg
+  #  alt: "placeholder image 1"
+  #- url: /assets/images/unsplash7.jpg
+  #  image_path: assets/images/unsplash7.jpg
+   # alt: "placeholder image 2"
+  #- url: /assets/images/unsplash7.jpg
+   # image_path: assets/images/unsplash7.jpg
+   # alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Each week, I take part in a social project called #TidyTuesday challenge hosted by the R for data science community. They post a raw data set and allow the participants to explore the data and summarize it into meaningful data visualizations. This challenge provides an opportunity to practice data wrangling and visualizations skills as well as to connect with the #rstats community. Most of the visualiations you will see below were done as a part of this challenge. 
+
+Skills used for these visualizations: R shiny, ggplot2, plotly, tidyverse
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
