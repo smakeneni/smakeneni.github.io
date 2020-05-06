@@ -20,7 +20,7 @@ header:
    # image_path: assets/images/unsplash7.jpg
    # alt: "placeholder image 3"
 ---
-text: Each week, I take part in a social project called #TidyTuesday challenge hosted by the R for data science community. They post a raw data set and allow the participants to explore the data and summarize it into meaningful data visualizations. This challenge provides an opportunity to practice data wrangling and visualizations skills as well as to connect with the #rstats community. Most of the visualiations you will see below were done as a part of this challenge. 
+text: "Each week, I take part in a social project called #TidyTuesday challenge hosted by the R for data science community. They post a raw data set and allow the participants to explore the data and summarize it into meaningful data visualizations. This challenge provides an opportunity to practice data wrangling and visualizations skills as well as to connect with the #rstats community. Most of the visualiations you will see below were done as a part of this challenge."
 {: .text-justify}
 
 Skills used for these visualizations: R shiny, ggplot2, plotly, tidyverse
