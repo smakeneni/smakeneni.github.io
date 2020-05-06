@@ -1,9 +1,9 @@
 ---
-layout: single
+#layout: single
 title: "Data Visualization"
 excerpt: " "
 header:
-  image: /assets/images/unsplash6.jpg
+  overlay_image: /assets/images/unsplash6.jpg
   #teaser: /assets/images/dataviz.jpg
 #sidebar:
  # - title: "Role"
