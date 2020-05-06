@@ -30,3 +30,6 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 {: .notice--info}
 
 ### College tuition
+<figure>
+  <img src="{{ '/assets/images/College_tuition_maps.png'}}" >
+</figure>
