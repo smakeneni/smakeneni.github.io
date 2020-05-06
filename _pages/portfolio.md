@@ -11,7 +11,7 @@ feature_row1:
   - image_path: /assets/images/dataviz.jpg
     portfolio_caption: "Photo Credit"
     title: "Data Visualization"
-    url: #"portfolio/dataviz"
+    url: "portfolio/dataviz"
     btn_label: "Explore"
     btn_class: "btn--primary"
 
