@@ -34,7 +34,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/dataviz.jpg
     title: "Other"
-    url: "/portfolio/Statistics/"
+    url: #"/portfolio/Statistics/"
     btn_label: "Read More"
     btn_class: "btn--primary"   
    
