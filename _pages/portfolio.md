@@ -17,7 +17,7 @@ feature_row1:
 
 feature_row2:
   - image_path: /assets/images/dataviz.jpg
-    title: "Machine Learning"
+    title: "Statistics"
     url: #"/portfolio/machinelearning"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -25,7 +25,7 @@ feature_row2:
 
 feature_row3:
   - image_path: /assets/images/dataviz.jpg
-    title: "Statistics   "
+    title: "Machine Learning"
     url: #"/portfolio/Statistics/"
     btn_label: "Read More"
     btn_class: "btn--primary"   
@@ -33,7 +33,7 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/images/dataviz.jpg
-    title: "Statistics   "
+    title: "Other"
     url: "/portfolio/Statistics/"
     btn_label: "Read More"
     btn_class: "btn--primary"   
