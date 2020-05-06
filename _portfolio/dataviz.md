@@ -31,7 +31,7 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 
 ---
 ### College tuition
-![image-left]({{ "/assets/images/materials_by_year.png" | relative_url }}){: .align-left} Check out college tuition fees by state.I take part in a social project called #TidyTuesday challenge hosted by the R for data science community. They post a raw data set and allow the participants to explore the data and summarize it into meaningful data visualizations. This challenge provides an opportunity to practice data wrangling and visualizations skills as well as to connect with the #rstats community. Most of the visualiations you will see below were done as a part of this challenge.
+![image-left]({{ "/assets/images/materials_by_year.png" | relative_url }}){: .align-left .width-half} Check out college tuition fees by state.I take part in a social project called #TidyTuesday challenge hosted by the R for data science community. They post a raw data set and allow the participants to explore the data and summarize it into meaningful data visualizations. This challenge provides an opportunity to practice data wrangling and visualizations skills as well as to connect with the #rstats community. Most of the visualiations you will see below were done as a part of this challenge.
 
 [code](https://github.com/smakeneni/TidyTuesday/blob/master/May5th_animalcrossings.R){: .btn .btn--primary .btn--small}
 
