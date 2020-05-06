@@ -5,6 +5,7 @@ excerpt: " "
 header:
   overlay_image: /assets/images/unsplash6.jpg
   #teaser: /assets/images/dataviz.jpg
+author_profile: true  
 toc: true  
 #sidebar:
  # - title: "Role"
@@ -21,15 +22,16 @@ toc: true
   #- url: /assets/images/unsplash7.jpg
    # image_path: assets/images/unsplash7.jpg
    # alt: "placeholder image 3"
----
-### Summary 
+--- 
 Each week, I take part in a social project called #TidyTuesday challenge hosted by the R for data science community. They post a raw data set and allow the participants to explore the data and summarize it into meaningful data visualizations. This challenge provides an opportunity to practice data wrangling and visualizations skills as well as to connect with the #rstats community. Most of the visualiations you will see below were done as a part of this challenge.
 {: .text-justify}
 
-**Skills use for these visualizations:**  R shiny, ggplot2, plotly, tidyverse
+**Skills use for these visualizations:  R shiny, ggplot2, plotly, tidyverse**
 {: .notice--info}
 
 ### College tuition
-<figure>
-  <img src="{{ '/assets/images/College_tuition_maps.png'}}" >
-</figure>
+![image-left](/assets/images/College_tuition_maps.png){: .align-left}
+Check out college tuition fees by state
+url: "https://github.com/smakeneni/TidyTuesday/blob/master/May5th_animalcrossings.R"
+btn_label: "code"
+btn_class: "btn--primary"
