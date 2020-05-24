@@ -7,16 +7,33 @@ header:
     caption: "Photo by Unsplash"
 author_profile: true
 classes: wide
+
 feature_row1:
-  - image_path: /assets/images/dataviz.jpg
-    portfolio_caption: "Photo Credit"
-    title: "Data Visualization"
-    url: "portfolio/dataviz"
-    btn_label: "Explore"
+  - image_path: assets/images/posts/starbucks-cluster-conversion-rates.png
+    alt: "Clusterisation results based on Conversion Rates"
+    title: "Target Audience for Starbucks Rewards App"
+    text: "In this project, I analyzed the customer behavior in the Starbucks Rewards Mobile App. After signing up for the app, customers receive promotions every few days. The task was to identify which customers are influenced by promotional offers the most and what types of offers to send them in order to maximize the revenue. I used PCA and K-Means clustering to arrive at 3 customer segments (Disinterested, BOGO, Discount) based on Average Conversion Rates and explored their demographic profiles and shopping habits."
+    url: "https://github.com/k-bosko/Starbucks_rewards"
+    btn_label: "Code + Presentation"
     btn_class: "btn--primary"
-    url2: "https://smakeneni.github.io/portfolio/dataviz/"
-    btn_label2: "Testing"
+    url2: "/Starbucks-Rewards-Program/"
+    btn_label2: "Technical Report"
     btn_class: "btn--primary"
+    tags: 
+        - Marketing
+        - Segmentation
+        - k-means clustering
+
+#feature_row1:
+ # - image_path: /assets/images/dataviz.jpg
+ #   portfolio_caption: "Photo Credit"
+ #   title: "Data Visualization"
+ #   url: "portfolio/dataviz"
+ #   btn_label: "Explore"
+ #   btn_class: "btn--primary"
+ #   url2: "https://smakeneni.github.io/portfolio/dataviz/"
+ #   btn_label2: "Testing"
+ #   btn_class: "btn--primary"
 
 feature_row2:
   - image_path: /assets/images/dataviz.jpg
