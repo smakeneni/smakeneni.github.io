@@ -19,10 +19,6 @@ feature_row1:
     url2: "/Starbucks-Rewards-Program/"
     btn_label2: "Technical Report"
     btn_class: "btn--primary"
-    tags: 
-        - Marketing
-        - Segmentation
-        - k-means clustering
 
 #feature_row1:
  # - image_path: /assets/images/dataviz.jpg
@@ -50,7 +46,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"   
     btn_size: "btn--small"
-
+    
 feature_row4:
   - image_path: /assets/images/dataviz.jpg
     title: "Other"
