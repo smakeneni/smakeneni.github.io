@@ -14,6 +14,9 @@ feature_row1:
     url: "portfolio/dataviz"
     btn_label: "Explore"
     btn_class: "btn--primary"
+    url2: "https://smakeneni.github.io/portfolio/dataviz/"
+    btn_label2: "Testing"
+    btn_class: "btn--primary"
 
 feature_row2:
   - image_path: /assets/images/dataviz.jpg
