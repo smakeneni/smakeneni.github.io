@@ -8,7 +8,7 @@ header:
 author_profile: true  
 toc: true  
 feature_row1:
-  - image_path: /assets/images/College_tuition_maps.png
+  - image_path: /assets/images/Collegetuition.png
     title: "College tuition vs. salary potential"
     text: " For this project, I developed an interactive dashboard that allows the users to visualize college fees and salary potential by state in the United States"
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"
@@ -21,7 +21,7 @@ feature_row1:
       - flexdashboard, R shiny, tidyverse
     
 feature_row2:
-  - image_path: /assets/images/College_tuition_maps.png
+  - image_path: /assets/images/anim.gif
     title: "Broadway Incomes"
     text: " For this project, I analyzed the data from broadway incomes to created animated plots"
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
