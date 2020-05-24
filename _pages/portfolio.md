@@ -18,7 +18,6 @@ feature_row1:
     url2: "https://smakeneni.github.io/portfolio/dataviz/"
     btn_label2: "Testing"
     btn_class: "btn--primary"
-
 ---
 
 ## PORTFOLIO 
