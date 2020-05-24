@@ -29,7 +29,7 @@ feature_row2:
     btn_label: "Visual"
     btn_class: "btn--primary"    
     
-feature_row2:
+feature_row3:
   - image_path: /assets/images/College_tuition_maps.png
     title: "BrainInjury Statistics"
     text: " For this project, I analyzed the data from broadway incomes to created animated plots"
@@ -56,3 +56,5 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
