@@ -6,20 +6,24 @@ header:
   overlay_image: /assets/images/unsplash6.jpg
   #teaser: /assets/images/dataviz.jpg
 author_profile: true  
+classes: wide
 toc: true  
-feature_row1:
-  - image_path: /assets/images/Collegetuition.png
-    title: "College tuition vs. salary potential"
-    text: " For this project, I developed an interactive dashboard that allows the users to visualize college fees and salary potential by state in the United States"
+feature_row1-1:
+  - image_path: assets/images/Collegetuition.png
+    alt: "Clusterisation results based on Conversion Rates"
+    title: "Target Audience for Starbucks Rewards App"
+    text: "In this project, I analyzed the customer behavior in the Starbucks Rewards Mobile App. After signing up for the app, customers receive promotions every few days. The task was to identify which customers are influenced by promotional offers the most and what types of offers to send them in order to maximize the revenue. I used PCA and K-Means clustering to arrive at 3 customer segments (Disinterested, BOGO, Discount) based on Average Conversion Rates and explored their demographic profiles and shopping habits."
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"
     btn_label: "Code"
     btn_class: "btn--primary"
     url2: "https://smakeneni.shinyapps.io/Tuition_Salary/"
     btn_label2: "Dashboard"
     btn_class: "btn--primary"
-    tags:
-      - flexdashboard, R shiny, tidyverse
-    
+    tags: 
+        - Marketing
+        - Segmentation
+        - k-means clustering
+        
 feature_row2:
   - image_path: /assets/images/anim.gif
     title: "Broadway Incomes"
