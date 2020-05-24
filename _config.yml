@@ -108,6 +108,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
    # _portfolio
   - scope:
       path: ""
@@ -116,6 +117,7 @@ defaults:
       layout: single
       excerpt: ""
       author_profile: false
+      share: true
       
 category_archive:
   type: liquid
