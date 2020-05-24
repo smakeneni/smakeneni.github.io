@@ -1,5 +1,5 @@
 ---
-#layout: single
+layout: single
 title: "Data Visualization"
 excerpt: " "
 header:
@@ -8,6 +8,7 @@ header:
 author_profile: true  
 classes: wide
 toc: true  
+
 feature_row1-1:
   - image_path: assets/images/Collegetuition.png
     alt: "Clusterisation results based on Conversion Rates"
@@ -65,6 +66,6 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 
 ---
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row1-1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
