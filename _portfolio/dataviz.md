@@ -14,9 +14,11 @@ feature_row1:
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"
     btn_label: "Code"
     btn_class: "btn--primary"
-    url1: "https://smakeneni.shinyapps.io/Tuition_Salary/"
-    btn_label: "Dashboard"
+    url2: "https://smakeneni.shinyapps.io/Tuition_Salary/"
+    btn_label2: "Dashboard"
     btn_class: "btn--primary"
+    tags:
+      - flexdashboard, R shiny, tidyverse
     
 feature_row2:
   - image_path: /assets/images/College_tuition_maps.png
@@ -25,9 +27,11 @@ feature_row2:
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
     btn_label: "Code"
     btn_class: "btn--primary"
-    url1: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
-    btn_label: "Visual"
-    btn_class: "btn--primary"    
+    url2: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
+    btn_label2: "Visual"
+    btn_class: "btn--primary" 
+    tags:
+      - gganimate, ggplot, tidyverse
     
 feature_row3:
   - image_path: /assets/images/College_tuition_maps.png
@@ -36,9 +40,11 @@ feature_row3:
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R"
     btn_label: "Code"
     btn_class: "btn--primary"
-    url1: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
-    btn_label: "Visual"
-    btn_class: "btn--primary"    
+    url2: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
+    btn_label2: "Visual"
+    btn_class: "btn--primary" 
+    tags:
+      - plotly, tidyverse
 
 #sidebar:
  # - title: "Role"
