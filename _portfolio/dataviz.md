@@ -16,8 +16,8 @@ feature_row1-1:
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"
     btn_label: "Code"
     btn_class: "btn--primary"
-    url2: "https://smakeneni.shinyapps.io/Tuition_Salary/"
-    btn_label2: "Dashboard"
+    url: "https://smakeneni.shinyapps.io/Tuition_Salary/"
+    btn_label: "Dashboard"
     btn_class: "btn--primary"
     tags: 
         - Marketing
