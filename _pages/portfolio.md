@@ -15,15 +15,10 @@ feature_row1:
     url: "/portfolio/dataviz"
     btn_label: "Explore"
     btn_class: "btn--primary"
-    url2: "https://smakeneni.github.io/portfolio/dataviz"
-    btn_label2: "Testing"
-    btn_class: "btn--primary"
 ---
 
 ## PORTFOLIO 
 {: .text-center}
 These are projects that I have done over the last year which are representative of my skills and interests. I have divided them into three categories as seen below. For each individual project, I have included a brief summary, detailed report, and  link to the code. If you have further questions, please feel leave a comment or contact me
 
-{% include feature_row id="feature_row1" type="left" %}
-[Text](https://smakeneni.github.io/portfolio/dataviz) {: .btn .btn--primary .btn--small}
 
