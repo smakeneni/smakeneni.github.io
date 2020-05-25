@@ -21,4 +21,6 @@ feature_row1:
 {: .text-center}
 These are projects that I have done over the last year which are representative of my skills and interests. I have divided them into three categories as seen below. For each individual project, I have included a brief summary, detailed report, and  link to the code. If you have further questions, please feel leave a comment or contact me
 
+{% include feature_row1 id="feature_row1" type="left" %}
+
 
