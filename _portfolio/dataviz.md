@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/unsplash6.jpg
   #teaser: /assets/images/dataviz.jpg
 author_profile: true  
-toc: true
+classes: wide 
 
 feature_row1:
   - image_path: assets/images/Collegetuition.png
@@ -23,7 +23,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/anim.gif
     title: "Broadway Incomes"
-    text: " For this project, I analyzed the data from broadway incomes to created animated plots"
+    text: "For this project, I analyzed the data from broadway incomes to created animated plots"
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
     btn_label: "Code"
     btn_class: "btn--primary"
