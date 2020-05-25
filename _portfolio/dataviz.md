@@ -1,6 +1,5 @@
 ---
-layout: single
-title: "Data Visualization"
+title: " "
 excerpt: " "
 header:
   overlay_image: /assets/images/unsplash6.jpg
@@ -8,7 +7,7 @@ header:
 author_profile: true  
 toc: true
 
-feature_row1-1:
+feature_row1:
   - image_path: assets/images/Collegetuition.png
     title: "College tuition vs. Salary Potential"
     text: " I created an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US"
@@ -19,8 +18,8 @@ feature_row1-1:
     url2: "https://smakeneni.shinyapps.io/Tuition_Salary/"
     btn_label2: "Dashboard"
     btn_class: "btn--primary"
-    
-        
+    btn_size : "btn--small"
+           
 feature_row2:
   - image_path: /assets/images/anim.gif
     title: "Broadway Incomes"
@@ -31,8 +30,6 @@ feature_row2:
     url2: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
     btn_label2: "Visual"
     btn_class: "btn--primary" 
-    tags:
-      - gganimate, ggplot, tidyverse
     
 feature_row3:
   - image_path: /assets/images/College_tuition_maps.png
@@ -44,8 +41,6 @@ feature_row3:
     url2: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
     btn_label2: "Visual"
     btn_class: "btn--primary" 
-    tags:
-      - plotly, tidyverse
 
 #sidebar:
  # - title: "Role"
@@ -60,6 +55,6 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 **Skills used for these visualizations:  R shiny, ggplot2, plotly, tidyverse, flexdashboard**
 {: .notice--info}
 
-{% include feature_row id="feature_row1-1" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
