@@ -11,10 +11,11 @@ classes: wide
 feature_row1:
   - image_path: assets/images/Collegetuition.png
     title: "College tuition vs. Salary Potential"
-    text: "I created an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US"{: .text-justify}
+    text: "I created an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US {: .text-justify}"
     url: "https://smakeneni.shinyapps.io/Tuition_Salary/" 
     btn_label: "Dashboard"
-    btn_class: "btn--primary--small"
+    btn_class: "btn--primary"
+    btn_class: "btn--small"
     url2: "https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"
     btn_label2: "Code"
     btn_class: "btn--primary"
