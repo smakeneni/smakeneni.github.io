@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/unsplash6.jpg
   #teaser: /assets/images/dataviz.jpg
 author_profile: true  
+toc: true
 
 feature_row1-1:
   - image_path: assets/images/Collegetuition.png
