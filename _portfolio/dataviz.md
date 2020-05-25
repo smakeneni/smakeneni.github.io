@@ -11,7 +11,7 @@ classes: wide
 feature_row1:
   - image_path: assets/images/Collegetuition.png
     title: "College tuition vs. Salary Potential"
-    text: "I created an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US {: .text-justify}"
+    text: "For this visualization project, I analyzed tuition and [salary data](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd) to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US"
     url: "https://smakeneni.shinyapps.io/Tuition_Salary/" 
     btn_label: "Dashboard"
     btn_class: "btn--primary"
@@ -33,7 +33,7 @@ feature_row2:
     
 feature_row3:
   - image_path: /assets/images/College_tuition_maps.png
-    title: "BrainInjury Statistics"
+    title: "Brain Injury Statistics"
     text: "For this project, I analyzed the broadway incomes data to created animated plots"
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R"
     btn_label: "Visual"
