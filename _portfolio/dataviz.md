@@ -14,11 +14,10 @@ feature_row1:
     text: "For this visualization project, I analyzed tuition and [salary data](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd) to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US"
     url: "https://smakeneni.shinyapps.io/Tuition_Salary/" 
     btn_label: "Dashboard"
-    btn_class: "btn--primary"
-    btn_class: "btn--small"
+    btn_class: "btn"
     url2: "https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"
     btn_label2: "Code"
-    btn_class: "btn--primary"
+    btn_class: "btn"
            
 feature_row2:
   - image_path: /assets/images/anim.gif
