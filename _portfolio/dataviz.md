@@ -9,19 +9,16 @@ author_profile: true
 
 feature_row1-1:
   - image_path: assets/images/Collegetuition.png
-    alt: "Clusterisation results based on Conversion Rates"
-    title: "Target Audience for Starbucks Rewards App"
-    text: "In this project, I analyzed the customer behavior in the Starbucks Rewards Mobile App. After signing up for the app, customers receive promotions every few days. The task was to identify which customers are influenced by promotional offers the most and what types of offers to send them in order to maximize the revenue. I used PCA and K-Means clustering to arrive at 3 customer segments (Disinterested, BOGO, Discount) based on Average Conversion Rates and explored their demographic profiles and shopping habits."
+    title: "College tuition vs. Salary Potential"
+    text: " I created an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US"
     url: "https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"
     btn_label: "Code"
     btn_class: "btn--primary"
+    btn_size : "btn--small"
     url2: "https://smakeneni.shinyapps.io/Tuition_Salary/"
     btn_label2: "Dashboard"
     btn_class: "btn--primary"
-    tags: 
-        - Marketing
-        - Segmentation
-        - k-means clustering
+    
         
 feature_row2:
   - image_path: /assets/images/anim.gif
