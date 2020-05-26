@@ -51,9 +51,8 @@ feature_row3:
 Each week, I take part in a social project called #TidyTuesday challenge hosted by the R for data science community. They post a raw data set and allow the participants to explore the data and summarize it into meaningful data visualizations. This challenge provides an opportunity to practice data wrangling and visualizations skills as well as to connect with the #rstats community. Most of the visualiations you will see below were done as a part of this challenge.
 {: .text-justify}
 
-**Tools and Packages used for these visualizations:  R, tidyverse, ggplot2, plotly, R shiny, gganimate, flexdashboard**
+**Tools and Packages used for these visualizations:**  R, tidyverse, ggplot2, plotly, R shiny, gganimate, flexdashboard
 {: .notice--info}
 
-{% include feature_row id="feature_row1" type="left" %}
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row3" type="left" %}
+![image-left](/assets/images/Collegetuition.png){: .align-left}
+For this visualization project, I analyzed tuition and [salary data](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd) to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US
