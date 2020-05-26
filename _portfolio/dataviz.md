@@ -31,7 +31,7 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 
 ![image-left](/assets/images/broadway.gif){: .align-left}For this project, I analyzed broadway incomes data and aggregated weekly gross incomes per year by show to visualize top 10 shows every year from 2010-2019. I created an animated plot using the gganimate package in R.
 
-[View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
+[View visualization](/pages/Dataviz_broadway.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
 
 **Brain Injury Statistics**
 
