@@ -55,16 +55,17 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 {: .notice--info}
 
 **College tuition vs. Salary Potential**
+
 ![image-left](/assets/images/Collegetuition.png){: .align-left}For this visualization project, I analyzed tuition and [salary data](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd) to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US
 
 [Dashboard](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--primary .btn--small}  [Code](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd){: .btn .btn--primary .btn--small}
 
 **Broadway Incomes**
-![image-left](/assets/images/anim.gif){:align-left}For this project, I analyzed the data from broadway incomes to created animated plots
+![image-left](/assets/images/broadway.gif){: .align-left}For this project, I analyzed the data from broadway incomes to created animated plots
 
 [View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--primary .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--primary .btn--small}
 
 **Brain Injury Statistics**
-![image-left](/assets/images/College_tuition_maps.png){:align-left}For this project, I analyzed the broadway incomes data to created animated plots
+![image-left](/assets/images/College_tuition_maps.png){: .align-left}For this project, I analyzed the broadway incomes data to created animated plots
 
 [View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--primary .btn--small}  [Code] (https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--primary .btn--small} 
