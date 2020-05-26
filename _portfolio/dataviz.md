@@ -8,39 +8,6 @@ header:
 author_profile: true  
 classes: wide 
 
-feature_row1:
-  - image_path: assets/images/Collegetuition.png
-    title: "College tuition vs. Salary Potential"
-    text: "For this visualization project, I analyzed tuition and [salary data](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd) to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US"
-    url: "https://smakeneni.shinyapps.io/Tuition_Salary/" 
-    btn_label: "Dashboard"
-    btn_class: "btn"
-    url2: "https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"
-    btn_label2: "Code"
-    btn_class: "btn"
-           
-feature_row2:
-  - image_path: /assets/images/anim.gif
-    title: "Broadway Incomes"
-    text: "For this project, I analyzed the data from broadway incomes to created animated plots"
-    url: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
-    btn_label: "Visual"
-    btn_class: "btn--primary"
-    url2: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
-    btn_label2: "Code"
-    btn_class: "btn--primary" 
-    
-feature_row3:
-  - image_path: /assets/images/College_tuition_maps.png
-    title: "Brain Injury Statistics"
-    text: "For this project, I analyzed the broadway incomes data to created animated plots"
-    url: "https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R"
-    btn_label: "Visual"
-    btn_class: "btn--primary"
-    url2: "https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R"
-    btn_label2: "Code"
-    btn_class: "btn--primary" 
-
 #sidebar:
  # - title: "Role"
  #   text: "Designer, Front-End Developer"
@@ -56,16 +23,18 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 
 **College tuition vs. Salary Potential**
 
-![image-left](/assets/images/Collegetuition.png){: .align-left}For this visualization project, I analyzed tuition and [salary data](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd) to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US
+![image-left](/assets/images/Collegetuition.png){: .align-left}For this visualization project, I analyzed tuition and salary data to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US
 
-[Dashboard](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--primary .btn--small}  [Code](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd){: .btn .btn--primary .btn--small}
+[Dashboard](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--info .btn--small}  [Code](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd){: .btn .btn--info .btn--small}
 
 **Broadway Incomes**
-![image-left](/assets/images/broadway.gif){: .align-left}For this project, I analyzed the data from broadway incomes to created animated plots
 
-[View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--primary .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--primary .btn--small}
+![image-left](/assets/images/broadway.gif){: .align-left}For this project, I analyzed broadway incomes data and aggregated weekly gross incomes per year by show to visualize top 10 shows every year from 2010-2019. I created an animated plot using the gganimate package in R.
+
+[View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
 
 **Brain Injury Statistics**
-![image-left](/assets/images/College_tuition_maps.png){: .align-left}For this project, I analyzed the broadway incomes data to created animated plots
 
-[View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--primary .btn--small}  [Code] (https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--primary .btn--small} 
+![image-left](/assets/images/College_tuition_maps.png){: .align-left}For this project, I analyzed traumatic brain injuries data in the US between 2007-2014 to explore the leading cause for injuries and deaths. I used plotly in R to create this plot.
+
+[View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--info .btn--small}  [Code](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--info .btn--small} 
