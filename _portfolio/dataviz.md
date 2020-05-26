@@ -23,7 +23,7 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 
 **College tuition vs. Salary Potential**
 
-![image-left](/assets/images/Collegetuition.png){: .align-left}For this visualization project, I analyzed tuition and salary data to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US
+![image-left](/assets/images/Collegetuition.png){: .align-left}For this project, I analyzed tuition and salary data to explore correlation between tuition costs and career pay. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US
 
 [Dashboard](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--info .btn--small}  [Code](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd){: .btn .btn--info .btn--small}
 
@@ -35,6 +35,6 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 
 **Brain Injury Statistics**
 
-![image-left](/assets/images/College_tuition_maps.png){: .align-left}For this project, I analyzed traumatic brain injuries data in the US between 2007-2014 to explore the leading cause for injuries and deaths. I used plotly in R to create this plot.
+![image-left](/assets/images/College_tuition_maps.png){: .align-left}For this project, I analyzed traumatic brain injuries data in the US between 2007-2014 to explore the leading cause for injuries and deaths. I used plotly in R to generate this plot.
 
 [View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--info .btn--small}  [Code](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--info .btn--small} 
