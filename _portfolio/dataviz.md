@@ -18,7 +18,7 @@ classes: wide
 Each week, I take part in a social project called #TidyTuesday challenge hosted by the R for data science community. They post a raw data set and allow the participants to explore the data and summarize it into meaningful data visualizations. This challenge provides an opportunity to practice data wrangling and visualizations skills as well as to connect with the #rstats community. Most of the visualiations you will see below were done as a part of this challenge.
 {: .text-justify}
 
-**Tools and Packages used for these visualizations:**  R, tidyverse, ggplot2, plotly, R shiny, gganimate, flexdashboard
+**Tools and Packages used:**  R, tidyverse, ggplot2, plotly, R shiny, gganimate, flexdashboard
 {: .notice--info}
 
 **College tuition vs. Salary Potential**
