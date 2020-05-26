@@ -55,3 +55,5 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 {: .notice--info}
 
 ![image-left](/assets/images/Collegetuition.png){: .align-left}For this visualization project, I analyzed tuition and [salary data](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd) to explore if tuition costs and career pay are correlated. I used R shiny flexdashboard to create an interactive dashboard that allows the users to explore tuition fees and salary potential by state in the US
+
+[Dashboard](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--primary .btn--small}[Code]("https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd"){: .btn .btn--primary .btn--small}
