@@ -18,13 +18,13 @@ feature_row1:
   - image_path: /assets/images/dataviz.jpg
     portfolio_caption: "Photo Credit"
     title: "Statistics"
-    url: "/portfolio/dataviz"
+    #url: "/portfolio/dataviz"
     btn_label: "Explore"
     btn_class: "btn--primary"
   - image_path: /assets/images/dataviz.jpg
     portfolio_caption: "Photo Credit"
     title: "Machine Learning"
-    url: "/portfolio/dataviz"
+    #url: "/portfolio/dataviz"
     btn_label: "Explore"
     btn_class: "btn--primary"  
 ---
