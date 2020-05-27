@@ -35,6 +35,6 @@ Each week, I take part in a social project called #TidyTuesday challenge hosted 
 
 **Brain Injury Statistics**
 
-![image-left](/assets/images/College_tuition_maps.png){: .align-left}For this project, I analyzed traumatic brain injuries data in the US between 2007-2014 to explore the leading cause for injuries and deaths. I used plotly in R to generate this plot.
+![image-left](/assets/images/BrainInjury_teaser.png){: .align-left}For this project, I analyzed traumatic brain injuries data in the US between 2007-2014 to explore the leading cause for injuries and deaths. I used plotly in R to generate this plot.
 
-[View visualization](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--info .btn--small}  [Code](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/Braininjury_plotly.R){: .btn .btn--info .btn--small} 
+[View visualization](/portfolio/braininjury_dashboard.html){: .btn .btn--info .btn--small}  [Code](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/barplots_braininjury.R){: .btn .btn--info .btn--small} 
