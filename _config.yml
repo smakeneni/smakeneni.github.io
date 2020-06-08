@@ -61,8 +61,8 @@ plugins:
 
 author:
   name   : "Spandana Makeneni, PhD"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, welcome to my website."
+  avatar : "/assets/images/website_pic.JPG"
+  bio    : ""
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
