@@ -22,7 +22,7 @@ classes: wide
 [View visualization](/portfolio/Dataviz_broadway.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
 
 **Brain Injury Analysis**
-![image-left](/assets/BrainInjury_teaser.png){: .align-left} I created an interactive plot using plotly to explore the top causes for truamatic brain injury in the United States.
+![image-left](/assets/images/BrainInjury_teaser.png){: .align-left} I created an interactive plot using plotly to explore the top causes for truamatic brain injury in the United States.
 
 [View visualization](/portfolio/braininjury_dashboard.html){: .btn .btn--info .btn--small}    [Code]
 (https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/barplots_braininjury.R){: .btn .btn--info.btn--small}
