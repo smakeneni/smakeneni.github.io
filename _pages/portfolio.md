@@ -10,19 +10,19 @@ classes: wide
 
 feature_row1:
   - image_path: /assets/images/dataviz.jpg
-    portfolio_caption: "Photo Credit"
-    title: "Data Visualization"
+    #portfolio_caption: "Photo Credit"
+    title: "Data Viz"
     url: "/portfolio/dataviz"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - image_path: /assets/images/dataviz.jpg
-    portfolio_caption: "Photo Credit"
-    title: "Statistics"
+  - image_path: /assets/images/Statistics.jpg
+    #portfolio_caption: "Photo Credit"
+    title: "Statistical modeling"
     url: "/portfolio/Statistics"
     btn_label: "Explore"
     btn_class: "btn--primary"
   - image_path: /assets/images/dataviz.jpg
-    portfolio_caption: "Photo Credit"
+    #portfolio_caption: "Photo Credit"
     title: "Machine Learning"
     url: "/portfolio/machinelearning"
     btn_label: "Explore"
