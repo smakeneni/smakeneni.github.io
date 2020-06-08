@@ -13,3 +13,9 @@ classes: wide
 ![image-left](/assets/images/Broadway_teaser.gif){: .align-left}For this project, I analyzed broadway incomes data and aggregated weekly gross incomes per year by show to visualize top 10 shows every year from 2010-2019. I created an animated plot using the gganimate package in R.
 
 [Report](/portfolio/Lungcanceranalysis.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
+
+**Population Estimates**
+
+![image-left](/assets/images/Broadway_teaser.gif){: .align-left}For this project, I analyzed broadway incomes data and aggregated weekly gross incomes per year by show to visualize top 10 shows every year from 2010-2019. I created an animated plot using the gganimate package in R.
+
+[Report](/portfolio/team_04_report.pdf){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
