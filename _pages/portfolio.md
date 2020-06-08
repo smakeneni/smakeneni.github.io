@@ -24,7 +24,7 @@ feature_row1:
   - image_path: /assets/images/dataviz.jpg
     portfolio_caption: "Photo Credit"
     title: "Machine Learning"
-    url: "/portfolio/mchinelearning"
+    url: "/portfolio/machinelearning"
     btn_label: "Explore"
     btn_class: "btn--primary"  
 ---
