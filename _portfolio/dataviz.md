@@ -27,4 +27,6 @@ classes: wide
 ![image-left](/assets/images/BrainInjury_teaser.png){: .align-left} I analyzed brain injury data from 2006-2014 and created an interactive plot using plotly that summarizes the statistics for traumatic brain injuries in the United States.  
      
       
+
+
 [View visualization](/portfolio/braininjury_dashboard.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/barplots_braininjury.R){: .btn .btn--info.btn--small}
