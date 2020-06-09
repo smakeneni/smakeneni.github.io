@@ -13,7 +13,7 @@ classes: wide
 ![image-left](/assets/images/survplot_test.png){: .align-left} Employed Kaplan-Meir curves and Cox proportional hazard model to estimate 1-year and 5-year survival rates on two types of non-small cell lung cancers using clinical trial data of ~800 patients obtained from the cancer genome atlas program (TCGA). Explored demographic, pathological, and smoking history characteristics and identified statistically-significant covariates that influence survival rates 
 
 
-[Report](/portfolio/Lungcanceranalysis.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
+[Report](/portfolio/Lungcanceranalysis.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/SurvivalAnlaysis/blob/master/Lungcanceranalysis.Rmd){: .btn .btn--info.btn--small}
 <br>
 <br>
 <br>
