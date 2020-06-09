@@ -21,7 +21,7 @@ feature_row1:
     url: "/portfolio/Statistics"
     btn_label: "Explore"
     btn_class: "btn--primary"
-  - image_path: /assets/images/dataviz.jpg
+  - image_path: /assets/images/machinelearning.png
     #portfolio_caption: "Photo Credit"
     title: "Machine learning"
     url: "/portfolio/machinelearning"
