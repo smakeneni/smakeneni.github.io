@@ -29,22 +29,15 @@ feature_row1:
     btn_class: "btn--primary"  
 ---
 <style>
-.myDiv {
-  width:70%; 
-  height: 200px;
-  border: 3px solid #3ca2c3;
-  background-color: lightblue;    
+.myDiv {  
   text-align: justify;
-  padding: 0px 5px 0px 5px;
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif; 
-  white-space: wrap; 
   overflow: hidden;
 }
 </style>    
 
 ## PORTFOLIO 
-{: .text-center}
 <div class="myDiv">
 These are projects that I have done over the last year which are representative of my skills and interests. I have divided them into three categories as seen below. For each individual project, I have included a brief summary, detailed report, and  link to the code. If you have further questions, please feel leave a comment or contact me
 </div>    
