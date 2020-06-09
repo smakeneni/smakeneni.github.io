@@ -17,7 +17,7 @@ feature_row1:
     btn_class: "btn--primary"
   - image_path: /assets/images/Statistics.jpg
     #portfolio_caption: "Photo Credit"
-    title: "Statistical modeling"
+    title: "Statistics"
     url: "/portfolio/Statistics"
     btn_label: "Explore"
     btn_class: "btn--primary"
