@@ -20,7 +20,7 @@ classes: wide
 <br>
 **Population Estimates - Code for Philly Datathon 2020**
 
-![image-left](/assets/images/Broadway_teaser.gif){: .align-left}•	This project was done to assist a non-profit organization, Prevention Point, which works with communities affected by drug use. Integrated and analyzed data from multiple public databases and employed indirect estimation methods (multiplier method and Poisson estimation) to estimate the number of intravenous drug users in the city of Philadelphia. The calculated estimates will aid prevention point to secure funding for Nalaxone kits to prevent deaths resulting from drug overdose.  
+![image-left](/assets/images/Linear_regression.png){: .align-left}•	This project was done to assist a non-profit organization, Prevention Point, which works with communities affected by drug use. Integrated and analyzed data from multiple public databases and employed indirect estimation methods (multiplier method and Poisson estimation) to estimate the number of intravenous drug users in the city of Philadelphia. The calculated estimates will aid prevention point to secure funding for Nalaxone kits to prevent deaths resulting from drug overdose.  
 
 
-[Report](/portfolio/team_04_report.pdf){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
+[Report](/portfolio/team_04_report.pdf){: .btn .btn--info .btn--small}    
