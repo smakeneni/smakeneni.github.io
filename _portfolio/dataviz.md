@@ -9,7 +9,9 @@ author_profile: true
 classes: wide 
 
 --- 
- {  
+<style>
+  
+ .myDiv{  
   text-align: justify;
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif; 
