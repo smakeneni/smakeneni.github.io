@@ -26,6 +26,6 @@ p.clear {
 <p>
 <div class="myDiv">For this project, I analyzed a dataset from kaggle, which consists of 79 exploratory variables that describe various features of residential homes in Ames,Iowa. The challenge is to identify which features affect sale prices and predict home prices of each of these homes. I used Gradient Boost and XGBM algorithms for this.</div></p>
 
-<strong>Packages</strong>: tidyverse, ggplot2, caret, gbm, xgboost
+<div class="myDiv"><strong>Packages</strong>: tidyverse, ggplot2, caret, gbm, xgboost</div>
 
 [Report](/portfolio/Housingprices.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/Housingprices/blob/master/Housingprices.Rmd){: .btn .btn--info .btn--small}
