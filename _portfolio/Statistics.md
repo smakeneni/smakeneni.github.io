@@ -17,6 +17,10 @@ classes: wide
   font-family: Arial, Helvetica, sans-serif; 
   overflow: hidden;
 }
+
+p.clear {
+  clear: both;
+}
 </style>   
 
 **Survival Analysis**
@@ -24,7 +28,7 @@ classes: wide
 <img src="/assets/images/survplot_test.png" style="float:left;width:200px;height:200px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv">Lung cancer is the second most common form of cancer in both men and women, accounting for 2.3 million cases of the 17 million total estimated cases. In this project, I analyzed clinical trial data of ~800 patients obtained from the cancer genome atlas program <a href="https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga">(TCGA)</a>and estimated survival rates of two kinds of non-small cell lung cancers using Kaplan-Meir curves and Cox proportional hazard model. I also explored demographic, pathological, and smoking history of patients and identified statistically-significant covariates that influence survival rates.</div>
 </p>
 
-<div class="myDiv"><strong>Packages</strong> : survminer, survival, RTCGA, RTCGA.clinical</div>
+<p class="clear"><strong>Packages</strong> : survminer, survival, RTCGA, RTCGA.clinical</p>
 <br>
 [Report](/portfolio/Lungcanceranalysis.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/SurvivalAnlaysis/blob/master/Lungcanceranalysis.Rmd){: .btn .btn--info.btn--small}
 <br>
