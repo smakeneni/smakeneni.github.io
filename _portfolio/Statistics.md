@@ -20,9 +20,9 @@ classes: wide
 </style>   
 
 **Survival Analysis**
-
-![image-left](/assets/images/survplot_test.png){: .align-left} Lung cancer is the second most common form of cancer in both men and women, accounting for 2.3 million cases of the 17 million total estimated cases. In this project, I analyzed clinical trial data of ~800 patients obtained from the cancer genome atlas program ([TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)) and estimated survival rates of two kinds of non-small cell lung cancers using Kaplan-Meir curves and Cox proportional hazard model. I also explored demographic, pathological, and smoking history of patients and identified statistically-significant covariates that influence survival rates.
-{: .text-justify}
+<p>
+<img src="/assets/images/survplot_test.png" style="float:left;width:200px;height:200px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv">Lung cancer is the second most common form of cancer in both men and women, accounting for 2.3 million cases of the 17 million total estimated cases. In this project, I analyzed clinical trial data of ~800 patients obtained from the cancer genome atlas program ([TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)) and estimated survival rates of two kinds of non-small cell lung cancers using Kaplan-Meir curves and Cox proportional hazard model. I also explored demographic, pathological, and smoking history of patients and identified statistically-significant covariates that influence survival rates.</div>
+</p>
 
 **Packages** : survminer, RTCGA, RTCGA.clinical, survival
 
