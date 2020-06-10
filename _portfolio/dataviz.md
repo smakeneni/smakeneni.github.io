@@ -9,10 +9,22 @@ author_profile: true
 classes: wide 
 
 --- 
+ {  
+  text-align: justify;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif; 
+  overflow: hidden;
+}
+
+p.clear {
+  clear: both;
+}
+</style>   
+
 
 **College Tuition**      
-
-![image-left](/assets/images/Collegetuition.png){: .align-left} For this visualization project, I analyzed college tuition and pay data for 2018 across the US. I used **R shiny flexdashboard** to create an interactive dashboard that allows the users to explore the correlation between college tuition and early career incomes by state.  
+<p>
+<img src="/assets/images/Collegetuition.png" style="float:left;width:320px;height:141px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv">For this visualization project, I analyzed college tuition and pay data for 2018 across the US. I used **R shiny flexdashboard** to create an interactive dashboard that allows the users to explore the correlation between college tuition and early career incomes by state.</div></p>  
 <br>
 [View visualization](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd){: .btn .btn--info.btn--small}
 
