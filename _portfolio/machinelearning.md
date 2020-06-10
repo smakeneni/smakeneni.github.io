@@ -20,6 +20,20 @@ classes: wide
 p.clear {
   clear: both;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;  
+} 
+
+li{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif; 
+ }
 </style>  
 
 **Home prices in Ames,Iowa**
