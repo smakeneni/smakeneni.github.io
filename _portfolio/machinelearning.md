@@ -7,9 +7,25 @@ header:
   #teaser: /assets/images/dataviz.jpg
 author_profile: true  
 classes: wide 
---- 
-**House prices in Ames,Iowa**
 
-For this project, I analyzed a dataset from kaggle which consists of house prices and 79 variables that describe various features of the houses in Ames,Iowa. 
+--- 
+<style>
+.myDiv {  
+  text-align: justify;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif; 
+  overflow: hidden;
+}
+
+p.clear {
+  clear: both;
+}
+</style>  
+
+**Home prices in Ames,Iowa**
+<p>
+<div class="myDiv">For this project, I analyzed a dataset from kaggle, which consists of 79 exploratory variables that describe various features of residential homes in Ames,Iowa. The challenge is to identify which features affect sale prices and predict home prices of each of these homes. I used Gradient Boost and XGBM algorithms for this.</div></p>
+
+<strong>Packages</strong>: tidyverse, ggplot2, caret, gbm, xgboost
 
 [Report](/portfolio/Housingprices.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/Housingprices/blob/master/Housingprices.Rmd){: .btn .btn--info .btn--small}
