@@ -35,6 +35,21 @@ feature_row1:
   font-family: Arial, Helvetica, sans-serif; 
   overflow: hidden;
 }
+    
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;   
+} 
+
+li{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif; 
+ }    
+    
 </style>    
 
 ## PORTFOLIO 
