@@ -25,7 +25,7 @@ classes: wide
 </p>
 
 <div class="myDiv"><strong>Packages</strong> : survminer, survival, RTCGA, RTCGA.clinical</div>
-
+<br>
 [Report](/portfolio/Lungcanceranalysis.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/SurvivalAnlaysis/blob/master/Lungcanceranalysis.Rmd){: .btn .btn--info.btn--small}
 <br>
 <br>
@@ -37,5 +37,5 @@ classes: wide
 </p>
 
 <div class="myDiv"><strong>Packages</strong> : tidyverse, ggplot2</div>
-
+<br>
 [Report](/portfolio/team_04_report.pdf){: .btn .btn--info .btn--small}    
