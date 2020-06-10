@@ -67,9 +67,9 @@ author:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/smakeneni15"
+    - #label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/smakeneni15"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smakeneni"
@@ -79,9 +79,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/smakeneni15"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/smakeneni15"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/smakeneni"
@@ -108,7 +108,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
    # _portfolio
   - scope:
       path: ""
@@ -117,7 +117,7 @@ defaults:
       layout: single
       excerpt: ""
       author_profile: false
-      share: true
+      share: false
       
 category_archive:
   type: liquid
