@@ -7,11 +7,13 @@ header:
   #teaser: /assets/images/dataviz.jpg
 author_profile: true  
 classes: wide 
+
 --- 
 **Survival Analysis**
 
-![image-left](/assets/images/survplot_test.png){: .align-left} Employed Kaplan-Meir curves and Cox proportional hazard model to estimate 1-year and 5-year survival rates on two types of non-small cell lung cancers using clinical trial data of ~800 patients obtained from the cancer genome atlas program (TCGA). Explored demographic, pathological, and smoking history characteristics and identified statistically-significant covariates that influence survival rates 
+![image-left](/assets/images/survplot_test.png){: .align-left} Lung cancer is the second most common form of cancer in both men and women, accounting for 2.3 million cases of the 17 million total estimated cases. In this project, I analyzed clinical trial data of ~800 patients obtained from the cancer genome atlas program ([TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)) and estimated survival rates of two kinds of non-small cell lung cancers using Kaplan-Meir curves and Cox proportional hazard model. I also explored demographic, pathological, and smoking history of patients and identified statistically-significant covariates that influence survival rates
 
+**Packages** : survminer, RTCGA, RTCGA.clinical, survival
 
 [Report](/portfolio/Lungcanceranalysis.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/SurvivalAnlaysis/blob/master/Lungcanceranalysis.Rmd){: .btn .btn--info.btn--small}
 <br>
@@ -20,7 +22,6 @@ classes: wide
 <br>
 **Population Estimates - Code for Philly Datathon 2020**
 
-![image-left](/assets/images/Linear_regression.png){: .align-left}•	This project was done to assist a non-profit organization, Prevention Point, which works with communities affected by drug use. Integrated and analyzed data from multiple public databases and employed indirect estimation methods (multiplier method and Poisson estimation) to estimate the number of intravenous drug users in the city of Philadelphia. The calculated estimates will aid prevention point to secure funding for Nalaxone kits to prevent deaths resulting from drug overdose.  
-
+![image-left](/assets/images/Linear_regression.png){: .align-left}•	This project was done as part of a datathon organized by code for philly and R-ladies philly to assist [Prevention Point](https://ppponline.org/), a non-profit organization, which works with communities affected by drug use. The goal of our team was to estimate the number of intravenous drug users in the city of Philadelphia. In order to aid our calculations, we integrated data provided by prevention point with data from city of Philadelphia including fatal and non-fatal drug overdoses, medically assisted treament, and drug arrests. Additionally, we also explored treatment addiction datasets from [SAMHSA](https://www.samhsa.gov/). Since the data precluded any granaular data due to HIPAA, we used indirect estimation methods addition, multiplier and truncated Poisson estimation methods to estimate the number of intravenous drug users in the city. 
 
 [Report](/portfolio/team_04_report.pdf){: .btn .btn--info .btn--small}    
