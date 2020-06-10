@@ -19,7 +19,8 @@ minimal_mistakes_skin: "dirt"
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
 name: "Spandana Makeneni"
-#title: "Spandana Makeneni"
+title: "Spandana Makeneni"
+excerpt: ""
 email: "makeneni@gmail.com"
 description: "My Data Science portfolio"
 #twitter_username: username
