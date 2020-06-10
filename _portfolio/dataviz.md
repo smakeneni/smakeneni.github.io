@@ -26,18 +26,18 @@ p.clear {
 
 **College Tuition**      
 <p>
-<img src="/assets/images/Collegetuition.png" style="float:left;width:320px;height:141px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv">For this visualization project, I analyzed college tuition and pay data for 2018 across the US. I used <strong>R shiny flexdashboard</strong> to create an interactive dashboard that allows the users to explore the correlation between college tuition and early career incomes by state.</div></p>  
+<img src="/assets/images/Collegetuition.png" style="float:left;width:320px;height:160px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv">For this visualization project, I analyzed college tuition and pay data for 2018 across the US. I used <strong>R shiny flexdashboard</strong> to create an interactive dashboard that allows the users to explore the correlation between college tuition and early career incomes by state.</div></p>  
 <p class="clear"> </p>
 [View visualization](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd){: .btn .btn--info.btn--small}
 
 **Broadway Incomes**          
-
-![image-left](/assets/images/Broadway_teaser.gif){: .align-left} For this project, I analyzed broadway incomes data and aggregated weekly gross incomes per year by show to visualize top 10 shows every year from 2010-2019. I created an animated plot using the **gganimate** package in R.  
-<br>
+<p>
+<img src="/assets/images/Broadway_teaser.gif" style="float:left;width:320px;height:160px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv"> For this project, I analyzed broadway incomes data and aggregated weekly gross incomes per year by show to visualize top 10 shows every year from 2010-2019. I created an animated plot using the **gganimate** package in R.</div></p>
+<p class="clear"></p>
 [View visualization](/portfolio/Dataviz_broadway.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Broadway/Animatedplot.R){: .btn .btn--info.btn--small}
 
 **Brain Injury Statistics**            
-
-![image-left](/assets/images/BrainInjury_teaser.png){: .align-left} I analyzed brain injury data from 2006-2014 and created an interactive plot using **plotly** that summarizes the statistics for traumatic brain injuries in the United States.  
-<br>     
+<p>
+<img src="/assets/images/BrainInjury_teaser.png" style="float:left;width:320px;height:160px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv"> I analyzed brain injury data from 2006-2014 and created an interactive plot using **plotly** that summarizes the statistics for traumatic brain injuries in the United States.</div></p>  
+<p class="clear"></p>  
 [View visualization](/portfolio/braininjury_dashboard.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/barplots_braininjury.R){: .btn .btn--info.btn--small}
