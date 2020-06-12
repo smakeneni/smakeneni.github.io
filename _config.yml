@@ -79,8 +79,8 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/smakeneni15"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url : "makeneni@gmail.com"
+      icon: "fa fa-envelope"
+      url : "mailto:makeneni@gmail.com"
 footer:
   links:
     - label: "Linkedin"
