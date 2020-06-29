@@ -39,6 +39,7 @@ li{
 
 <div class="myDiv">
 Each week, I participate in a social project called #TidyTuesday hosted by [R4DS](https://www.rfordatasci.com/) community. They provide a raw dataset with the goal of creating meaningful data visualizations. The project allows the pariticipants to practice data wrangling and data visualization skills and connect with the greater #rstats community. Below are some featured visualizations from this project.</div>
+&nbsp;
 
 **College Tuition**      
 <p>
