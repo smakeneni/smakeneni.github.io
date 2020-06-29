@@ -55,3 +55,9 @@ li{
 <img src="/assets/images/BrainInjury_teaser.png" style="float:left;width:320px;height:160px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv"> I analyzed brain injury data from 2006-2014 and created an interactive plot using <strong>plotly</strong> that summarizes the statistics for traumatic brain injuries in the United States.</div></p>  
 <p class="clear"></p>  
 [View visualization](/portfolio/braininjury_dashboard.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/barplots_braininjury.R){: .btn .btn--info.btn--small}
+
+**Tracking Caribou**
+<p>
+<img src="/assets/images/Caribou_migration.gif" style="float:left;width:320px;height:160px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv"> I analyzed data that tracks woodland caribou in northern British Columbia and created an animated plot using <strong>gganimate</strong> that shows the movements of caribou between 2001-2016 </div></p>
+<p class="clear"></p>
+[View visualization](/portfolio/Caribou.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/Caribou_06_23/Caribou_animated.R){: .btn .btn--info.btn--small}
