@@ -45,7 +45,7 @@ li{
 <p>
 <img src="/assets/images/Collegetuition.png" style="float:left;width:320px;height:160px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv">For this visualization project, I analyzed college tuition and pay data for 2018 across the US. I used <strong>R shiny flexdashboard</strong> to create an interactive dashboard that allows the users to explore the correlation between college tuition and early career incomes by state.</div></p>  
 <p class="clear"> </p>
-[View visualization](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd){: .btn .btn--info.btn--small}
+[View dashboard](https://smakeneni.shinyapps.io/Tuition_Salary/){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/College_tuition_03_011/Tuition_Salary.Rmd){: .btn .btn--info.btn--small}
 
 **Broadway Incomes**          
 <p>
