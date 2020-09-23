@@ -38,7 +38,7 @@ li{
 </style>   
 
 <div class="myDiv">
-  Each week, I participate in a social project called <strong>#TidyTuesday</strong> hosted by <a href="https://www.rfordatasci.com/">R4DS</a> community. They provide a raw dataset with the goal of creating meaningful data visualizations. The project allows pariticipants to practice their data wrangling and data visualization skills and connect with the greater #rstats community. Below are some featured visualizations that I generated as part of this project. If you are interested in checking out all the other visualizations, they are on my <a href="https://github.com/smakeneni/TidyTuesday/">github</a>
+  Each week, I participate in a social project called <strong>#TidyTuesday</strong> hosted by <a href="https://www.rfordatasci.com/">R4DS</a> community. They provide a raw dataset with the goal of creating meaningful data visualizations. The project allows pariticipants to practice their data wrangling and data visualization skills and connect with the greater #rstats community. Below are some featured visualizations that I generated as part of this project. If you are interested in checking out all the other visualizations, they are on my <a href="https://github.com/smakeneni/TidyTuesday/">github</a>. 
 &nbsp;
 
 **College Tuition**      
