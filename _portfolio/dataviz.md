@@ -60,6 +60,14 @@ li{
 <p class="clear"></p>  
 [View visualization](/portfolio/braininjury_dashboard.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/TidyTuesday/blob/master/BrainInjury_03_24/barplots_braininjury.R){: .btn .btn--info.btn--small}
 
+**CHOPPED: word cloud analysis**
+<p>
+<img src="/assets/images/chopped_teaser.png" style="float:left;width:320px;height:160px;margin-right:10px;border:1px solid #021a40;padding;3px;background-color:sand;"> <div
+class="myDiv"> Chopped is an american reality-based cooking show. I analyzed 10+ years of episode data and used <strong>word cloud</strong> plots to look at the most common ingredients used for each course.</div></p>
+<p class="clear"></p>
+[View visualization](/portfolio/chopped.html){: .btn .btn--info .btn--small}    [Code]
+(https://github.com/smakeneni/TidyTuesday/blob/master/Chopped_08_25/Plot_chopped.R){: .btn .btn--info.btn--small}
+
 **Tracking Caribou**
 <p>
 <img src="/assets/images/Caribou_migration.gif" style="float:left;width:320px;height:160px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"> <div class="myDiv"> I analyzed data that tracks woodland caribou in northern British Columbia and created an animated plot using <strong>gganimate</strong> that shows the movements of caribou between 2001-2016 </div></p>
