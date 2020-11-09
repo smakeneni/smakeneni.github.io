@@ -43,3 +43,11 @@ li{
 <div class="myDiv"><strong>Packages</strong>: tidyverse, ggplot2, caret, gbm, xgboost</div>
 
 [Report](/portfolio/Housingprices.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/Housingprices/blob/master/Housingprices.Rmd){: .btn .btn--info .btn--small}
+
+**Predicting Fraud in Health Insurance claims**
+<p>
+<img src="/assets/images/Fraud_websiteimage.jpeg" style="float:left;width:200px;height:200px;margin-right:10px;border:1px solid #021a40;padding:3px;background-color:sand;"><div class="myDiv">For this project, I analyzed 3 datasets (~550k observations) that consist of health insurance claims (inpatient and outpatient) and beneficiary information. The goal is to identify features from these claims that can be help us characterize the behavior of fraudulent providers. I used Logistic regression, Random Forest, and XGBM algorithms for this.</div></p>
+
+<div class="myDiv"><strong>Packages</strong>: tidyverse, ggplot2, caret, xgboost</div>
+
+[Report](/portfolio/Frauddetection.html){: .btn .btn--info .btn--small}    [Code](https://github.com/smakeneni/Healthcare_fraud_detection/blob/main/Frauddetection.rmd){: .btn .btn--info .btn--small}
